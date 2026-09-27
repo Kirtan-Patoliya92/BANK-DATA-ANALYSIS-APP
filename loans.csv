@@ -1,0 +1,2501 @@
+customer_id,loan_amount,loan_status
+C0001,0,No Loan
+C0002,563001,Rejected
+C0003,0,No Loan
+C0004,109991,Approved
+C0005,0,No Loan
+C0006,618623,Rejected
+C0007,0,No Loan
+C0008,0,No Loan
+C0009,21141,Approved
+C0010,0,No Loan
+C0011,0,No Loan
+C0012,0,No Loan
+C0013,0,No Loan
+C0014,0,No Loan
+C0015,30513,Approved
+C0016,0,No Loan
+C0017,0,No Loan
+C0018,0,No Loan
+C0019,0,No Loan
+C0020,0,No Loan
+C0021,0,No Loan
+C0022,0,No Loan
+C0023,0,No Loan
+C0024,188997,Approved
+C0025,61935,Approved
+C0026,0,No Loan
+C0027,0,No Loan
+C0028,74234,Approved
+C0029,145483,Approved
+C0030,0,No Loan
+C0031,334451,Rejected
+C0032,526837,Rejected
+C0033,0,No Loan
+C0034,0,No Loan
+C0035,0,No Loan
+C0036,148796,Approved
+C0037,125183,Approved
+C0038,0,No Loan
+C0039,0,No Loan
+C0040,0,No Loan
+C0041,213952,Approved
+C0042,0,No Loan
+C0043,0,No Loan
+C0044,519167,Approved
+C0045,0,No Loan
+C0046,104724,Approved
+C0047,250603,Approved
+C0048,269427,Approved
+C0049,0,No Loan
+C0050,48062,Approved
+C0051,190967,Approved
+C0052,158141,Approved
+C0053,69950,Approved
+C0054,0,No Loan
+C0055,246658,Approved
+C0056,50126,Approved
+C0057,0,No Loan
+C0058,0,No Loan
+C0059,0,No Loan
+C0060,77500,Approved
+C0061,0,No Loan
+C0062,153429,Approved
+C0063,303704,Approved
+C0064,0,No Loan
+C0065,0,No Loan
+C0066,0,No Loan
+C0067,366086,Rejected
+C0068,0,No Loan
+C0069,101681,Approved
+C0070,0,No Loan
+C0071,0,No Loan
+C0072,187111,Approved
+C0073,0,No Loan
+C0074,0,No Loan
+C0075,0,No Loan
+C0076,0,No Loan
+C0077,0,No Loan
+C0078,0,No Loan
+C0079,0,No Loan
+C0080,0,No Loan
+C0081,290125,Approved
+C0082,315266,Approved
+C0083,0,No Loan
+C0084,0,No Loan
+C0085,83899,Approved
+C0086,93449,Approved
+C0087,0,No Loan
+C0088,0,No Loan
+C0089,0,No Loan
+C0090,92715,Rejected
+C0091,0,No Loan
+C0092,28395,Approved
+C0093,165430,Rejected
+C0094,50645,Approved
+C0095,0,No Loan
+C0096,0,No Loan
+C0097,0,No Loan
+C0098,70745,Approved
+C0099,0,No Loan
+C0100,0,No Loan
+C0101,0,No Loan
+C0102,0,No Loan
+C0103,193757,Approved
+C0104,0,No Loan
+C0105,0,No Loan
+C0106,0,No Loan
+C0107,0,No Loan
+C0108,83384,Rejected
+C0109,0,No Loan
+C0110,0,No Loan
+C0111,202552,Approved
+C0112,0,No Loan
+C0113,129666,Approved
+C0114,0,No Loan
+C0115,0,No Loan
+C0116,0,No Loan
+C0117,31650,Approved
+C0118,0,No Loan
+C0119,120658,Approved
+C0120,655449,Approved
+C0121,38044,Approved
+C0122,38890,Approved
+C0123,47439,Approved
+C0124,0,No Loan
+C0125,0,No Loan
+C0126,0,No Loan
+C0127,0,No Loan
+C0128,151003,Approved
+C0129,0,No Loan
+C0130,0,No Loan
+C0131,0,No Loan
+C0132,286109,Approved
+C0133,204834,Rejected
+C0134,0,No Loan
+C0135,0,No Loan
+C0136,0,No Loan
+C0137,157045,Rejected
+C0138,35829,Approved
+C0139,0,No Loan
+C0140,0,No Loan
+C0141,113190,Approved
+C0142,0,No Loan
+C0143,138101,Rejected
+C0144,0,No Loan
+C0145,0,No Loan
+C0146,0,No Loan
+C0147,95245,Approved
+C0148,277250,Approved
+C0149,0,No Loan
+C0150,10500,Approved
+C0151,0,No Loan
+C0152,0,No Loan
+C0153,99510,Approved
+C0154,0,No Loan
+C0155,230761,Rejected
+C0156,0,No Loan
+C0157,0,No Loan
+C0158,0,No Loan
+C0159,112570,Approved
+C0160,0,No Loan
+C0161,0,No Loan
+C0162,874276,Approved
+C0163,0,No Loan
+C0164,49711,Approved
+C0165,0,No Loan
+C0166,0,No Loan
+C0167,0,No Loan
+C0168,0,No Loan
+C0169,0,No Loan
+C0170,114276,Approved
+C0171,21032,Approved
+C0172,152331,Approved
+C0173,0,No Loan
+C0174,0,No Loan
+C0175,0,No Loan
+C0176,46513,Rejected
+C0177,0,No Loan
+C0178,0,No Loan
+C0179,0,No Loan
+C0180,0,No Loan
+C0181,237797,Approved
+C0182,0,No Loan
+C0183,0,No Loan
+C0184,0,No Loan
+C0185,676614,Approved
+C0186,304058,Rejected
+C0187,0,No Loan
+C0188,0,No Loan
+C0189,0,No Loan
+C0190,0,No Loan
+C0191,0,No Loan
+C0192,0,No Loan
+C0193,26532,Approved
+C0194,0,No Loan
+C0195,0,No Loan
+C0196,13434,Rejected
+C0197,62516,Approved
+C0198,0,No Loan
+C0199,38110,Approved
+C0200,0,No Loan
+C0201,0,No Loan
+C0202,119963,Approved
+C0203,130449,Approved
+C0204,0,No Loan
+C0205,0,No Loan
+C0206,0,No Loan
+C0207,50867,Approved
+C0208,0,No Loan
+C0209,0,No Loan
+C0210,0,No Loan
+C0211,0,No Loan
+C0212,76606,Approved
+C0213,0,No Loan
+C0214,422338,Rejected
+C0215,0,No Loan
+C0216,124841,Rejected
+C0217,0,No Loan
+C0218,0,No Loan
+C0219,0,No Loan
+C0220,0,No Loan
+C0221,0,No Loan
+C0222,0,No Loan
+C0223,0,No Loan
+C0224,187674,Approved
+C0225,125634,Approved
+C0226,0,No Loan
+C0227,261938,Rejected
+C0228,0,No Loan
+C0229,200306,Approved
+C0230,0,No Loan
+C0231,0,No Loan
+C0232,108953,Approved
+C0233,125405,Approved
+C0234,0,No Loan
+C0235,0,No Loan
+C0236,0,No Loan
+C0237,0,No Loan
+C0238,277433,Approved
+C0239,247597,Rejected
+C0240,188859,Approved
+C0241,0,No Loan
+C0242,0,No Loan
+C0243,193542,Approved
+C0244,0,No Loan
+C0245,0,No Loan
+C0246,0,No Loan
+C0247,0,No Loan
+C0248,0,No Loan
+C0249,0,No Loan
+C0250,0,No Loan
+C0251,0,No Loan
+C0252,0,No Loan
+C0253,0,No Loan
+C0254,0,No Loan
+C0255,0,No Loan
+C0256,0,No Loan
+C0257,120245,Approved
+C0258,0,No Loan
+C0259,0,No Loan
+C0260,0,No Loan
+C0261,0,No Loan
+C0262,0,No Loan
+C0263,25744,Approved
+C0264,0,No Loan
+C0265,0,No Loan
+C0266,596687,Approved
+C0267,0,No Loan
+C0268,199576,Approved
+C0269,0,No Loan
+C0270,250112,Approved
+C0271,0,No Loan
+C0272,62886,Approved
+C0273,0,No Loan
+C0274,197923,Approved
+C0275,0,No Loan
+C0276,0,No Loan
+C0277,101213,Approved
+C0278,0,No Loan
+C0279,180609,Approved
+C0280,0,No Loan
+C0281,0,No Loan
+C0282,0,No Loan
+C0283,0,No Loan
+C0284,0,No Loan
+C0285,60674,Approved
+C0286,0,No Loan
+C0287,68859,Approved
+C0288,0,No Loan
+C0289,0,No Loan
+C0290,85372,Approved
+C0291,474088,Approved
+C0292,37170,Approved
+C0293,0,No Loan
+C0294,0,No Loan
+C0295,346466,Approved
+C0296,0,No Loan
+C0297,412132,Approved
+C0298,0,No Loan
+C0299,0,No Loan
+C0300,0,No Loan
+C0301,0,No Loan
+C0302,0,No Loan
+C0303,191271,Approved
+C0304,0,No Loan
+C0305,0,No Loan
+C0306,0,No Loan
+C0307,0,No Loan
+C0308,0,No Loan
+C0309,0,No Loan
+C0310,0,No Loan
+C0311,395166,Rejected
+C0312,0,No Loan
+C0313,419256,Rejected
+C0314,616664,Approved
+C0315,0,No Loan
+C0316,165978,Approved
+C0317,98489,Approved
+C0318,0,No Loan
+C0319,110947,Approved
+C0320,0,No Loan
+C0321,0,No Loan
+C0322,0,No Loan
+C0323,118436,Rejected
+C0324,299630,Approved
+C0325,0,No Loan
+C0326,0,No Loan
+C0327,0,No Loan
+C0328,45640,Rejected
+C0329,0,No Loan
+C0330,367902,Approved
+C0331,0,No Loan
+C0332,0,No Loan
+C0333,121286,Approved
+C0334,0,No Loan
+C0335,274687,Approved
+C0336,0,No Loan
+C0337,0,No Loan
+C0338,89914,Approved
+C0339,0,No Loan
+C0340,0,No Loan
+C0341,0,No Loan
+C0342,235203,Approved
+C0343,0,No Loan
+C0344,54186,Approved
+C0345,0,No Loan
+C0346,0,No Loan
+C0347,99925,Approved
+C0348,74239,Approved
+C0349,0,No Loan
+C0350,0,No Loan
+C0351,0,No Loan
+C0352,23113,Approved
+C0353,0,No Loan
+C0354,35558,Approved
+C0355,0,No Loan
+C0356,0,No Loan
+C0357,0,No Loan
+C0358,59866,Rejected
+C0359,0,No Loan
+C0360,0,No Loan
+C0361,0,No Loan
+C0362,114315,Approved
+C0363,0,No Loan
+C0364,0,No Loan
+C0365,145410,Approved
+C0366,0,No Loan
+C0367,127331,Rejected
+C0368,168617,Approved
+C0369,0,No Loan
+C0370,0,No Loan
+C0371,0,No Loan
+C0372,0,No Loan
+C0373,16761,Approved
+C0374,0,No Loan
+C0375,0,No Loan
+C0376,689602,Approved
+C0377,186423,Rejected
+C0378,0,No Loan
+C0379,0,No Loan
+C0380,0,No Loan
+C0381,0,No Loan
+C0382,216811,Approved
+C0383,0,No Loan
+C0384,0,No Loan
+C0385,133901,Rejected
+C0386,116491,Approved
+C0387,0,No Loan
+C0388,0,No Loan
+C0389,0,No Loan
+C0390,0,No Loan
+C0391,521220,Approved
+C0392,0,No Loan
+C0393,0,No Loan
+C0394,0,No Loan
+C0395,0,No Loan
+C0396,0,No Loan
+C0397,219631,Approved
+C0398,0,No Loan
+C0399,0,No Loan
+C0400,0,No Loan
+C0401,0,No Loan
+C0402,0,No Loan
+C0403,0,No Loan
+C0404,0,No Loan
+C0405,0,No Loan
+C0406,93711,Approved
+C0407,0,No Loan
+C0408,71698,Rejected
+C0409,0,No Loan
+C0410,0,No Loan
+C0411,40869,Approved
+C0412,212265,Approved
+C0413,426530,Approved
+C0414,0,No Loan
+C0415,0,No Loan
+C0416,0,No Loan
+C0417,43033,Rejected
+C0418,0,No Loan
+C0419,0,No Loan
+C0420,0,No Loan
+C0421,0,No Loan
+C0422,112697,Approved
+C0423,0,No Loan
+C0424,228456,Approved
+C0425,152816,Rejected
+C0426,0,No Loan
+C0427,0,No Loan
+C0428,36571,Approved
+C0429,0,No Loan
+C0430,0,No Loan
+C0431,273446,Approved
+C0432,0,No Loan
+C0433,0,No Loan
+C0434,0,No Loan
+C0435,202672,Approved
+C0436,0,No Loan
+C0437,0,No Loan
+C0438,0,No Loan
+C0439,78068,Rejected
+C0440,0,No Loan
+C0441,38374,Approved
+C0442,0,No Loan
+C0443,0,No Loan
+C0444,124091,Approved
+C0445,139089,Rejected
+C0446,0,No Loan
+C0447,0,No Loan
+C0448,97974,Approved
+C0449,0,No Loan
+C0450,0,No Loan
+C0451,0,No Loan
+C0452,0,No Loan
+C0453,0,No Loan
+C0454,0,No Loan
+C0455,70685,Approved
+C0456,248003,Approved
+C0457,223391,Approved
+C0458,0,No Loan
+C0459,0,No Loan
+C0460,133882,Approved
+C0461,0,No Loan
+C0462,0,No Loan
+C0463,0,No Loan
+C0464,0,No Loan
+C0465,192219,Approved
+C0466,416493,Rejected
+C0467,0,No Loan
+C0468,0,No Loan
+C0469,186590,Approved
+C0470,0,No Loan
+C0471,0,No Loan
+C0472,0,No Loan
+C0473,345378,Approved
+C0474,0,No Loan
+C0475,0,No Loan
+C0476,138059,Approved
+C0477,239276,Approved
+C0478,0,No Loan
+C0479,0,No Loan
+C0480,133105,Rejected
+C0481,51017,Rejected
+C0482,25403,Approved
+C0483,82478,Approved
+C0484,299573,Approved
+C0485,0,No Loan
+C0486,0,No Loan
+C0487,0,No Loan
+C0488,0,No Loan
+C0489,123183,Approved
+C0490,0,No Loan
+C0491,161191,Rejected
+C0492,153288,Approved
+C0493,197800,Approved
+C0494,0,No Loan
+C0495,98149,Approved
+C0496,0,No Loan
+C0497,0,No Loan
+C0498,0,No Loan
+C0499,0,No Loan
+C0500,82614,Rejected
+C0501,39187,Approved
+C0502,0,No Loan
+C0503,0,No Loan
+C0504,126798,Approved
+C0505,83030,Approved
+C0506,0,No Loan
+C0507,0,No Loan
+C0508,0,No Loan
+C0509,119282,Approved
+C0510,0,No Loan
+C0511,165478,Rejected
+C0512,0,No Loan
+C0513,0,No Loan
+C0514,71696,Approved
+C0515,0,No Loan
+C0516,0,No Loan
+C0517,0,No Loan
+C0518,0,No Loan
+C0519,70282,Rejected
+C0520,177685,Rejected
+C0521,40737,Approved
+C0522,0,No Loan
+C0523,0,No Loan
+C0524,117244,Rejected
+C0525,90890,Approved
+C0526,159714,Approved
+C0527,0,No Loan
+C0528,0,No Loan
+C0529,0,No Loan
+C0530,0,No Loan
+C0531,0,No Loan
+C0532,0,No Loan
+C0533,158909,Approved
+C0534,0,No Loan
+C0535,0,No Loan
+C0536,76791,Approved
+C0537,0,No Loan
+C0538,31043,Approved
+C0539,0,No Loan
+C0540,0,No Loan
+C0541,269591,Approved
+C0542,347436,Rejected
+C0543,0,No Loan
+C0544,130995,Approved
+C0545,70535,Approved
+C0546,0,No Loan
+C0547,0,No Loan
+C0548,36615,Rejected
+C0549,323524,Approved
+C0550,0,No Loan
+C0551,357653,Approved
+C0552,20720,Approved
+C0553,0,No Loan
+C0554,115469,Approved
+C0555,0,No Loan
+C0556,0,No Loan
+C0557,378673,Rejected
+C0558,191209,Approved
+C0559,0,No Loan
+C0560,0,No Loan
+C0561,267837,Approved
+C0562,136694,Approved
+C0563,0,No Loan
+C0564,25041,Approved
+C0565,0,No Loan
+C0566,36851,Rejected
+C0567,259276,Rejected
+C0568,0,No Loan
+C0569,125301,Rejected
+C0570,260572,Approved
+C0571,97188,Approved
+C0572,0,No Loan
+C0573,0,No Loan
+C0574,0,No Loan
+C0575,0,No Loan
+C0576,0,No Loan
+C0577,0,No Loan
+C0578,91824,Rejected
+C0579,125520,Approved
+C0580,55439,Approved
+C0581,90194,Approved
+C0582,219271,Approved
+C0583,153365,Approved
+C0584,0,No Loan
+C0585,0,No Loan
+C0586,40493,Approved
+C0587,61534,Approved
+C0588,176959,Approved
+C0589,727658,Approved
+C0590,106551,Approved
+C0591,0,No Loan
+C0592,368201,Rejected
+C0593,401697,Approved
+C0594,234967,Approved
+C0595,0,No Loan
+C0596,0,No Loan
+C0597,0,No Loan
+C0598,0,No Loan
+C0599,548622,Approved
+C0600,73011,Rejected
+C0601,0,No Loan
+C0602,0,No Loan
+C0603,439190,Approved
+C0604,175725,Approved
+C0605,0,No Loan
+C0606,606698,Approved
+C0607,0,No Loan
+C0608,0,No Loan
+C0609,145514,Rejected
+C0610,0,No Loan
+C0611,0,No Loan
+C0612,250184,Approved
+C0613,259016,Approved
+C0614,391747,Approved
+C0615,0,No Loan
+C0616,0,No Loan
+C0617,299188,Approved
+C0618,368784,Approved
+C0619,0,No Loan
+C0620,0,No Loan
+C0621,0,No Loan
+C0622,461934,Rejected
+C0623,136888,Rejected
+C0624,0,No Loan
+C0625,0,No Loan
+C0626,0,No Loan
+C0627,363972,Approved
+C0628,0,No Loan
+C0629,0,No Loan
+C0630,0,No Loan
+C0631,164075,Approved
+C0632,0,No Loan
+C0633,0,No Loan
+C0634,0,No Loan
+C0635,0,No Loan
+C0636,0,No Loan
+C0637,0,No Loan
+C0638,393354,Approved
+C0639,0,No Loan
+C0640,0,No Loan
+C0641,22783,Approved
+C0642,96001,Rejected
+C0643,65415,Approved
+C0644,0,No Loan
+C0645,156908,Approved
+C0646,0,No Loan
+C0647,0,No Loan
+C0648,0,No Loan
+C0649,190186,Approved
+C0650,0,No Loan
+C0651,0,No Loan
+C0652,241209,Approved
+C0653,0,No Loan
+C0654,0,No Loan
+C0655,142883,Rejected
+C0656,0,No Loan
+C0657,323998,Rejected
+C0658,0,No Loan
+C0659,0,No Loan
+C0660,171985,Rejected
+C0661,0,No Loan
+C0662,0,No Loan
+C0663,0,No Loan
+C0664,100489,Rejected
+C0665,70962,Approved
+C0666,53228,Rejected
+C0667,0,No Loan
+C0668,26966,Approved
+C0669,0,No Loan
+C0670,0,No Loan
+C0671,0,No Loan
+C0672,0,No Loan
+C0673,0,No Loan
+C0674,0,No Loan
+C0675,109028,Approved
+C0676,96671,Approved
+C0677,1094647,Approved
+C0678,0,No Loan
+C0679,115807,Rejected
+C0680,0,No Loan
+C0681,94344,Approved
+C0682,86985,Approved
+C0683,0,No Loan
+C0684,33017,Approved
+C0685,0,No Loan
+C0686,0,No Loan
+C0687,0,No Loan
+C0688,337837,Rejected
+C0689,0,No Loan
+C0690,143814,Rejected
+C0691,0,No Loan
+C0692,215570,Approved
+C0693,34711,Approved
+C0694,0,No Loan
+C0695,141603,Approved
+C0696,0,No Loan
+C0697,266310,Approved
+C0698,0,No Loan
+C0699,0,No Loan
+C0700,0,No Loan
+C0701,0,No Loan
+C0702,0,No Loan
+C0703,0,No Loan
+C0704,90149,Approved
+C0705,0,No Loan
+C0706,589343,Approved
+C0707,195468,Approved
+C0708,665683,Approved
+C0709,0,No Loan
+C0710,0,No Loan
+C0711,109239,Approved
+C0712,0,No Loan
+C0713,0,No Loan
+C0714,0,No Loan
+C0715,0,No Loan
+C0716,164959,Approved
+C0717,64683,Rejected
+C0718,148824,Rejected
+C0719,0,No Loan
+C0720,0,No Loan
+C0721,508425,Approved
+C0722,136553,Rejected
+C0723,0,No Loan
+C0724,0,No Loan
+C0725,0,No Loan
+C0726,0,No Loan
+C0727,0,No Loan
+C0728,0,No Loan
+C0729,0,No Loan
+C0730,137308,Approved
+C0731,0,No Loan
+C0732,0,No Loan
+C0733,80365,Approved
+C0734,328873,Approved
+C0735,0,No Loan
+C0736,0,No Loan
+C0737,0,No Loan
+C0738,114563,Rejected
+C0739,0,No Loan
+C0740,184675,Rejected
+C0741,0,No Loan
+C0742,0,No Loan
+C0743,0,No Loan
+C0744,0,No Loan
+C0745,0,No Loan
+C0746,0,No Loan
+C0747,0,No Loan
+C0748,239353,Approved
+C0749,0,No Loan
+C0750,0,No Loan
+C0751,0,No Loan
+C0752,155037,Approved
+C0753,0,No Loan
+C0754,381798,Approved
+C0755,176368,Rejected
+C0756,0,No Loan
+C0757,0,No Loan
+C0758,50834,Approved
+C0759,0,No Loan
+C0760,164567,Approved
+C0761,0,No Loan
+C0762,0,No Loan
+C0763,0,No Loan
+C0764,0,No Loan
+C0765,242183,Approved
+C0766,56287,Approved
+C0767,0,No Loan
+C0768,97580,Rejected
+C0769,0,No Loan
+C0770,0,No Loan
+C0771,183974,Approved
+C0772,0,No Loan
+C0773,235227,Approved
+C0774,253829,Approved
+C0775,0,No Loan
+C0776,0,No Loan
+C0777,0,No Loan
+C0778,14119,Rejected
+C0779,0,No Loan
+C0780,147958,Approved
+C0781,318549,Approved
+C0782,0,No Loan
+C0783,0,No Loan
+C0784,126122,Approved
+C0785,0,No Loan
+C0786,0,No Loan
+C0787,149158,Rejected
+C0788,205889,Rejected
+C0789,0,No Loan
+C0790,0,No Loan
+C0791,117795,Approved
+C0792,0,No Loan
+C0793,59134,Rejected
+C0794,0,No Loan
+C0795,0,No Loan
+C0796,0,No Loan
+C0797,0,No Loan
+C0798,123285,Approved
+C0799,26204,Rejected
+C0800,38233,Rejected
+C0801,0,No Loan
+C0802,0,No Loan
+C0803,96316,Approved
+C0804,0,No Loan
+C0805,0,No Loan
+C0806,0,No Loan
+C0807,564390,Approved
+C0808,95651,Approved
+C0809,163756,Rejected
+C0810,0,No Loan
+C0811,0,No Loan
+C0812,0,No Loan
+C0813,0,No Loan
+C0814,0,No Loan
+C0815,530644,Rejected
+C0816,191875,Rejected
+C0817,0,No Loan
+C0818,89428,Rejected
+C0819,0,No Loan
+C0820,0,No Loan
+C0821,0,No Loan
+C0822,283669,Rejected
+C0823,32477,Approved
+C0824,0,No Loan
+C0825,0,No Loan
+C0826,115327,Approved
+C0827,27991,Approved
+C0828,45280,Rejected
+C0829,0,No Loan
+C0830,0,No Loan
+C0831,0,No Loan
+C0832,0,No Loan
+C0833,0,No Loan
+C0834,75815,Approved
+C0835,127457,Rejected
+C0836,0,No Loan
+C0837,0,No Loan
+C0838,71593,Approved
+C0839,306668,Approved
+C0840,0,No Loan
+C0841,66787,Approved
+C0842,0,No Loan
+C0843,61742,Approved
+C0844,185260,Approved
+C0845,0,No Loan
+C0846,0,No Loan
+C0847,0,No Loan
+C0848,45560,Approved
+C0849,0,No Loan
+C0850,207875,Rejected
+C0851,283591,Rejected
+C0852,0,No Loan
+C0853,74301,Approved
+C0854,0,No Loan
+C0855,0,No Loan
+C0856,0,No Loan
+C0857,0,No Loan
+C0858,0,No Loan
+C0859,382633,Approved
+C0860,0,No Loan
+C0861,201067,Approved
+C0862,0,No Loan
+C0863,103400,Approved
+C0864,0,No Loan
+C0865,0,No Loan
+C0866,0,No Loan
+C0867,0,No Loan
+C0868,0,No Loan
+C0869,83158,Approved
+C0870,0,No Loan
+C0871,105079,Approved
+C0872,513174,Approved
+C0873,0,No Loan
+C0874,0,No Loan
+C0875,0,No Loan
+C0876,0,No Loan
+C0877,0,No Loan
+C0878,144976,Approved
+C0879,0,No Loan
+C0880,0,No Loan
+C0881,0,No Loan
+C0882,211600,Approved
+C0883,263783,Approved
+C0884,0,No Loan
+C0885,177680,Approved
+C0886,0,No Loan
+C0887,0,No Loan
+C0888,0,No Loan
+C0889,0,No Loan
+C0890,39149,Approved
+C0891,0,No Loan
+C0892,79822,Rejected
+C0893,132546,Approved
+C0894,69073,Approved
+C0895,0,No Loan
+C0896,37888,Approved
+C0897,0,No Loan
+C0898,0,No Loan
+C0899,0,No Loan
+C0900,0,No Loan
+C0901,0,No Loan
+C0902,30051,Rejected
+C0903,0,No Loan
+C0904,26718,Approved
+C0905,0,No Loan
+C0906,0,No Loan
+C0907,101433,Rejected
+C0908,0,No Loan
+C0909,0,No Loan
+C0910,528222,Approved
+C0911,0,No Loan
+C0912,335381,Approved
+C0913,0,No Loan
+C0914,0,No Loan
+C0915,0,No Loan
+C0916,0,No Loan
+C0917,0,No Loan
+C0918,0,No Loan
+C0919,0,No Loan
+C0920,0,No Loan
+C0921,0,No Loan
+C0922,0,No Loan
+C0923,0,No Loan
+C0924,0,No Loan
+C0925,0,No Loan
+C0926,191971,Approved
+C0927,0,No Loan
+C0928,0,No Loan
+C0929,0,No Loan
+C0930,47690,Approved
+C0931,0,No Loan
+C0932,48285,Rejected
+C0933,118203,Rejected
+C0934,0,No Loan
+C0935,0,No Loan
+C0936,32580,Rejected
+C0937,0,No Loan
+C0938,0,No Loan
+C0939,64475,Approved
+C0940,22674,Approved
+C0941,0,No Loan
+C0942,474595,Rejected
+C0943,191703,Approved
+C0944,0,No Loan
+C0945,0,No Loan
+C0946,0,No Loan
+C0947,0,No Loan
+C0948,0,No Loan
+C0949,351888,Approved
+C0950,0,No Loan
+C0951,0,No Loan
+C0952,103445,Approved
+C0953,42109,Approved
+C0954,0,No Loan
+C0955,508775,Approved
+C0956,0,No Loan
+C0957,0,No Loan
+C0958,360543,Rejected
+C0959,144697,Approved
+C0960,0,No Loan
+C0961,171670,Approved
+C0962,0,No Loan
+C0963,0,No Loan
+C0964,0,No Loan
+C0965,0,No Loan
+C0966,109532,Rejected
+C0967,68652,Approved
+C0968,0,No Loan
+C0969,0,No Loan
+C0970,306681,Rejected
+C0971,0,No Loan
+C0972,131114,Approved
+C0973,0,No Loan
+C0974,0,No Loan
+C0975,24101,Approved
+C0976,71931,Approved
+C0977,128384,Rejected
+C0978,0,No Loan
+C0979,0,No Loan
+C0980,344191,Approved
+C0981,0,No Loan
+C0982,0,No Loan
+C0983,0,No Loan
+C0984,263102,Rejected
+C0985,51102,Rejected
+C0986,0,No Loan
+C0987,0,No Loan
+C0988,0,No Loan
+C0989,0,No Loan
+C0990,0,No Loan
+C0991,74198,Approved
+C0992,0,No Loan
+C0993,0,No Loan
+C0994,221634,Rejected
+C0995,210522,Approved
+C0996,0,No Loan
+C0997,0,No Loan
+C0998,103023,Rejected
+C0999,196166,Approved
+C1000,0,No Loan
+C1001,0,No Loan
+C1002,309521,Approved
+C1003,0,No Loan
+C1004,0,No Loan
+C1005,46197,Approved
+C1006,81844,Approved
+C1007,169641,Approved
+C1008,146652,Approved
+C1009,0,No Loan
+C1010,188679,Approved
+C1011,0,No Loan
+C1012,133875,Approved
+C1013,0,No Loan
+C1014,0,No Loan
+C1015,352882,Approved
+C1016,0,No Loan
+C1017,220109,Approved
+C1018,0,No Loan
+C1019,110185,Approved
+C1020,0,No Loan
+C1021,0,No Loan
+C1022,0,No Loan
+C1023,104481,Approved
+C1024,36730,Approved
+C1025,0,No Loan
+C1026,0,No Loan
+C1027,31187,Approved
+C1028,0,No Loan
+C1029,0,No Loan
+C1030,239669,Approved
+C1031,76164,Rejected
+C1032,0,No Loan
+C1033,114108,Rejected
+C1034,0,No Loan
+C1035,0,No Loan
+C1036,0,No Loan
+C1037,0,No Loan
+C1038,452844,Approved
+C1039,122916,Rejected
+C1040,73510,Approved
+C1041,0,No Loan
+C1042,0,No Loan
+C1043,43681,Approved
+C1044,551360,Rejected
+C1045,0,No Loan
+C1046,95935,Approved
+C1047,466959,Approved
+C1048,93458,Approved
+C1049,0,No Loan
+C1050,116234,Approved
+C1051,0,No Loan
+C1052,0,No Loan
+C1053,0,No Loan
+C1054,0,No Loan
+C1055,0,No Loan
+C1056,0,No Loan
+C1057,0,No Loan
+C1058,0,No Loan
+C1059,0,No Loan
+C1060,139661,Approved
+C1061,0,No Loan
+C1062,152713,Rejected
+C1063,184590,Approved
+C1064,0,No Loan
+C1065,0,No Loan
+C1066,0,No Loan
+C1067,0,No Loan
+C1068,0,No Loan
+C1069,0,No Loan
+C1070,0,No Loan
+C1071,0,No Loan
+C1072,0,No Loan
+C1073,0,No Loan
+C1074,0,No Loan
+C1075,251867,Approved
+C1076,220925,Approved
+C1077,135189,Approved
+C1078,0,No Loan
+C1079,0,No Loan
+C1080,306938,Approved
+C1081,318323,Rejected
+C1082,69867,Approved
+C1083,0,No Loan
+C1084,226892,Approved
+C1085,66112,Approved
+C1086,0,No Loan
+C1087,0,No Loan
+C1088,0,No Loan
+C1089,0,No Loan
+C1090,0,No Loan
+C1091,242142,Approved
+C1092,0,No Loan
+C1093,0,No Loan
+C1094,34780,Rejected
+C1095,217154,Approved
+C1096,197185,Rejected
+C1097,0,No Loan
+C1098,0,No Loan
+C1099,0,No Loan
+C1100,222565,Approved
+C1101,0,No Loan
+C1102,0,No Loan
+C1103,0,No Loan
+C1104,0,No Loan
+C1105,0,No Loan
+C1106,0,No Loan
+C1107,0,No Loan
+C1108,70028,Rejected
+C1109,0,No Loan
+C1110,84780,Approved
+C1111,48002,Approved
+C1112,0,No Loan
+C1113,0,No Loan
+C1114,0,No Loan
+C1115,0,No Loan
+C1116,0,No Loan
+C1117,41846,Rejected
+C1118,0,No Loan
+C1119,52057,Approved
+C1120,30074,Approved
+C1121,138309,Rejected
+C1122,0,No Loan
+C1123,52963,Approved
+C1124,0,No Loan
+C1125,154668,Rejected
+C1126,181116,Approved
+C1127,0,No Loan
+C1128,0,No Loan
+C1129,94622,Approved
+C1130,0,No Loan
+C1131,0,No Loan
+C1132,0,No Loan
+C1133,0,No Loan
+C1134,64685,Rejected
+C1135,0,No Loan
+C1136,45314,Approved
+C1137,0,No Loan
+C1138,0,No Loan
+C1139,0,No Loan
+C1140,396587,Approved
+C1141,0,No Loan
+C1142,0,No Loan
+C1143,0,No Loan
+C1144,0,No Loan
+C1145,110099,Approved
+C1146,0,No Loan
+C1147,0,No Loan
+C1148,130614,Approved
+C1149,0,No Loan
+C1150,0,No Loan
+C1151,0,No Loan
+C1152,43200,Approved
+C1153,0,No Loan
+C1154,59814,Approved
+C1155,0,No Loan
+C1156,41584,Approved
+C1157,1150231,Rejected
+C1158,113634,Approved
+C1159,27772,Approved
+C1160,0,No Loan
+C1161,0,No Loan
+C1162,0,No Loan
+C1163,0,No Loan
+C1164,0,No Loan
+C1165,0,No Loan
+C1166,0,No Loan
+C1167,128676,Approved
+C1168,0,No Loan
+C1169,0,No Loan
+C1170,0,No Loan
+C1171,0,No Loan
+C1172,23185,Approved
+C1173,0,No Loan
+C1174,0,No Loan
+C1175,0,No Loan
+C1176,0,No Loan
+C1177,0,No Loan
+C1178,303530,Approved
+C1179,42709,Rejected
+C1180,0,No Loan
+C1181,230210,Approved
+C1182,0,No Loan
+C1183,0,No Loan
+C1184,0,No Loan
+C1185,397884,Approved
+C1186,0,No Loan
+C1187,1076187,Approved
+C1188,171300,Approved
+C1189,0,No Loan
+C1190,0,No Loan
+C1191,0,No Loan
+C1192,382001,Approved
+C1193,0,No Loan
+C1194,84574,Approved
+C1195,0,No Loan
+C1196,29444,Rejected
+C1197,0,No Loan
+C1198,217336,Rejected
+C1199,344265,Approved
+C1200,0,No Loan
+C1201,387682,Approved
+C1202,0,No Loan
+C1203,0,No Loan
+C1204,82790,Approved
+C1205,0,No Loan
+C1206,0,No Loan
+C1207,0,No Loan
+C1208,0,No Loan
+C1209,46038,Approved
+C1210,195035,Rejected
+C1211,100170,Rejected
+C1212,146987,Approved
+C1213,0,No Loan
+C1214,166712,Approved
+C1215,0,No Loan
+C1216,265039,Rejected
+C1217,0,No Loan
+C1218,278824,Rejected
+C1219,94963,Rejected
+C1220,0,No Loan
+C1221,132190,Rejected
+C1222,0,No Loan
+C1223,0,No Loan
+C1224,0,No Loan
+C1225,0,No Loan
+C1226,0,No Loan
+C1227,0,No Loan
+C1228,0,No Loan
+C1229,0,No Loan
+C1230,0,No Loan
+C1231,0,No Loan
+C1232,0,No Loan
+C1233,0,No Loan
+C1234,0,No Loan
+C1235,149543,Rejected
+C1236,119743,Approved
+C1237,128398,Approved
+C1238,116189,Approved
+C1239,149084,Approved
+C1240,0,No Loan
+C1241,42652,Approved
+C1242,0,No Loan
+C1243,54176,Approved
+C1244,67855,Approved
+C1245,0,No Loan
+C1246,0,No Loan
+C1247,0,No Loan
+C1248,0,No Loan
+C1249,0,No Loan
+C1250,279237,Approved
+C1251,58026,Approved
+C1252,386130,Approved
+C1253,0,No Loan
+C1254,0,No Loan
+C1255,0,No Loan
+C1256,29680,Approved
+C1257,0,No Loan
+C1258,120769,Rejected
+C1259,79415,Approved
+C1260,394811,Approved
+C1261,0,No Loan
+C1262,338305,Approved
+C1263,0,No Loan
+C1264,0,No Loan
+C1265,134884,Approved
+C1266,0,No Loan
+C1267,201649,Approved
+C1268,210313,Approved
+C1269,183350,Approved
+C1270,0,No Loan
+C1271,0,No Loan
+C1272,0,No Loan
+C1273,133900,Rejected
+C1274,0,No Loan
+C1275,0,No Loan
+C1276,0,No Loan
+C1277,0,No Loan
+C1278,131162,Rejected
+C1279,0,No Loan
+C1280,0,No Loan
+C1281,0,No Loan
+C1282,0,No Loan
+C1283,456589,Approved
+C1284,126927,Rejected
+C1285,288014,Approved
+C1286,0,No Loan
+C1287,0,No Loan
+C1288,0,No Loan
+C1289,0,No Loan
+C1290,0,No Loan
+C1291,0,No Loan
+C1292,36438,Approved
+C1293,0,No Loan
+C1294,0,No Loan
+C1295,0,No Loan
+C1296,268212,Approved
+C1297,0,No Loan
+C1298,0,No Loan
+C1299,0,No Loan
+C1300,0,No Loan
+C1301,0,No Loan
+C1302,0,No Loan
+C1303,0,No Loan
+C1304,0,No Loan
+C1305,0,No Loan
+C1306,0,No Loan
+C1307,0,No Loan
+C1308,0,No Loan
+C1309,0,No Loan
+C1310,0,No Loan
+C1311,0,No Loan
+C1312,0,No Loan
+C1313,0,No Loan
+C1314,0,No Loan
+C1315,58795,Approved
+C1316,0,No Loan
+C1317,0,No Loan
+C1318,0,No Loan
+C1319,0,No Loan
+C1320,147262,Approved
+C1321,0,No Loan
+C1322,0,No Loan
+C1323,0,No Loan
+C1324,0,No Loan
+C1325,183503,Rejected
+C1326,0,No Loan
+C1327,0,No Loan
+C1328,429421,Approved
+C1329,101639,Approved
+C1330,181604,Approved
+C1331,179967,Approved
+C1332,78286,Approved
+C1333,57843,Approved
+C1334,0,No Loan
+C1335,201320,Approved
+C1336,80301,Approved
+C1337,382756,Approved
+C1338,0,No Loan
+C1339,0,No Loan
+C1340,129341,Rejected
+C1341,0,No Loan
+C1342,0,No Loan
+C1343,83047,Rejected
+C1344,0,No Loan
+C1345,0,No Loan
+C1346,194915,Rejected
+C1347,0,No Loan
+C1348,0,No Loan
+C1349,0,No Loan
+C1350,144269,Approved
+C1351,0,No Loan
+C1352,0,No Loan
+C1353,154334,Rejected
+C1354,0,No Loan
+C1355,0,No Loan
+C1356,0,No Loan
+C1357,16529,Approved
+C1358,125171,Rejected
+C1359,0,No Loan
+C1360,0,No Loan
+C1361,65597,Rejected
+C1362,0,No Loan
+C1363,0,No Loan
+C1364,0,No Loan
+C1365,0,No Loan
+C1366,230038,Approved
+C1367,0,No Loan
+C1368,0,No Loan
+C1369,424801,Approved
+C1370,0,No Loan
+C1371,172938,Rejected
+C1372,135659,Approved
+C1373,0,No Loan
+C1374,231052,Rejected
+C1375,0,No Loan
+C1376,0,No Loan
+C1377,0,No Loan
+C1378,126889,Rejected
+C1379,18657,Rejected
+C1380,237445,Rejected
+C1381,0,No Loan
+C1382,0,No Loan
+C1383,162930,Approved
+C1384,0,No Loan
+C1385,0,No Loan
+C1386,0,No Loan
+C1387,333005,Rejected
+C1388,54853,Rejected
+C1389,0,No Loan
+C1390,0,No Loan
+C1391,161596,Approved
+C1392,221122,Approved
+C1393,0,No Loan
+C1394,21458,Approved
+C1395,0,No Loan
+C1396,0,No Loan
+C1397,0,No Loan
+C1398,0,No Loan
+C1399,0,No Loan
+C1400,152272,Approved
+C1401,0,No Loan
+C1402,138879,Approved
+C1403,0,No Loan
+C1404,0,No Loan
+C1405,0,No Loan
+C1406,80852,Approved
+C1407,157140,Approved
+C1408,0,No Loan
+C1409,38816,Approved
+C1410,0,No Loan
+C1411,0,No Loan
+C1412,209994,Approved
+C1413,72730,Approved
+C1414,0,No Loan
+C1415,0,No Loan
+C1416,0,No Loan
+C1417,264049,Approved
+C1418,0,No Loan
+C1419,165507,Approved
+C1420,237043,Approved
+C1421,115146,Approved
+C1422,0,No Loan
+C1423,241961,Approved
+C1424,0,No Loan
+C1425,0,No Loan
+C1426,0,No Loan
+C1427,0,No Loan
+C1428,106987,Approved
+C1429,0,No Loan
+C1430,121271,Rejected
+C1431,0,No Loan
+C1432,69869,Approved
+C1433,124232,Approved
+C1434,268362,Approved
+C1435,62640,Approved
+C1436,0,No Loan
+C1437,0,No Loan
+C1438,260495,Rejected
+C1439,0,No Loan
+C1440,0,No Loan
+C1441,0,No Loan
+C1442,0,No Loan
+C1443,139680,Rejected
+C1444,239066,Approved
+C1445,0,No Loan
+C1446,0,No Loan
+C1447,0,No Loan
+C1448,0,No Loan
+C1449,0,No Loan
+C1450,0,No Loan
+C1451,0,No Loan
+C1452,0,No Loan
+C1453,0,No Loan
+C1454,0,No Loan
+C1455,0,No Loan
+C1456,0,No Loan
+C1457,63288,Approved
+C1458,0,No Loan
+C1459,0,No Loan
+C1460,0,No Loan
+C1461,0,No Loan
+C1462,87665,Approved
+C1463,188935,Rejected
+C1464,0,No Loan
+C1465,70149,Approved
+C1466,0,No Loan
+C1467,104048,Rejected
+C1468,0,No Loan
+C1469,0,No Loan
+C1470,0,No Loan
+C1471,121662,Approved
+C1472,0,No Loan
+C1473,78268,Rejected
+C1474,52237,Approved
+C1475,75198,Approved
+C1476,0,No Loan
+C1477,25234,Approved
+C1478,0,No Loan
+C1479,211073,Approved
+C1480,161642,Rejected
+C1481,147662,Approved
+C1482,0,No Loan
+C1483,153045,Approved
+C1484,0,No Loan
+C1485,0,No Loan
+C1486,0,No Loan
+C1487,289711,Rejected
+C1488,0,No Loan
+C1489,0,No Loan
+C1490,0,No Loan
+C1491,0,No Loan
+C1492,0,No Loan
+C1493,287982,Rejected
+C1494,0,No Loan
+C1495,23338,Rejected
+C1496,78762,Approved
+C1497,0,No Loan
+C1498,0,No Loan
+C1499,0,No Loan
+C1500,0,No Loan
+C1501,0,No Loan
+C1502,0,No Loan
+C1503,0,No Loan
+C1504,397639,Approved
+C1505,0,No Loan
+C1506,112854,Approved
+C1507,41522,Approved
+C1508,0,No Loan
+C1509,0,No Loan
+C1510,0,No Loan
+C1511,0,No Loan
+C1512,0,No Loan
+C1513,148517,Rejected
+C1514,0,No Loan
+C1515,0,No Loan
+C1516,0,No Loan
+C1517,0,No Loan
+C1518,0,No Loan
+C1519,0,No Loan
+C1520,0,No Loan
+C1521,47197,Approved
+C1522,160025,Approved
+C1523,0,No Loan
+C1524,0,No Loan
+C1525,0,No Loan
+C1526,276801,Approved
+C1527,0,No Loan
+C1528,0,No Loan
+C1529,0,No Loan
+C1530,240595,Approved
+C1531,0,No Loan
+C1532,0,No Loan
+C1533,0,No Loan
+C1534,0,No Loan
+C1535,0,No Loan
+C1536,196752,Rejected
+C1537,50962,Approved
+C1538,0,No Loan
+C1539,129414,Approved
+C1540,0,No Loan
+C1541,71115,Rejected
+C1542,0,No Loan
+C1543,0,No Loan
+C1544,146898,Approved
+C1545,0,No Loan
+C1546,0,No Loan
+C1547,45947,Rejected
+C1548,0,No Loan
+C1549,47647,Approved
+C1550,0,No Loan
+C1551,22069,Approved
+C1552,118846,Approved
+C1553,0,No Loan
+C1554,0,No Loan
+C1555,191218,Approved
+C1556,0,No Loan
+C1557,0,No Loan
+C1558,0,No Loan
+C1559,0,No Loan
+C1560,0,No Loan
+C1561,0,No Loan
+C1562,0,No Loan
+C1563,0,No Loan
+C1564,108025,Approved
+C1565,159899,Rejected
+C1566,219231,Approved
+C1567,1134115,Approved
+C1568,521536,Rejected
+C1569,0,No Loan
+C1570,0,No Loan
+C1571,81936,Rejected
+C1572,58897,Approved
+C1573,351109,Approved
+C1574,0,No Loan
+C1575,0,No Loan
+C1576,164785,Approved
+C1577,0,No Loan
+C1578,0,No Loan
+C1579,0,No Loan
+C1580,239331,Rejected
+C1581,0,No Loan
+C1582,0,No Loan
+C1583,0,No Loan
+C1584,0,No Loan
+C1585,0,No Loan
+C1586,0,No Loan
+C1587,0,No Loan
+C1588,0,No Loan
+C1589,0,No Loan
+C1590,0,No Loan
+C1591,209210,Approved
+C1592,0,No Loan
+C1593,0,No Loan
+C1594,0,No Loan
+C1595,87620,Rejected
+C1596,0,No Loan
+C1597,0,No Loan
+C1598,0,No Loan
+C1599,0,No Loan
+C1600,304736,Approved
+C1601,171353,Rejected
+C1602,0,No Loan
+C1603,268045,Rejected
+C1604,0,No Loan
+C1605,0,No Loan
+C1606,0,No Loan
+C1607,301079,Approved
+C1608,69066,Approved
+C1609,0,No Loan
+C1610,0,No Loan
+C1611,160925,Approved
+C1612,0,No Loan
+C1613,0,No Loan
+C1614,258397,Approved
+C1615,248918,Approved
+C1616,0,No Loan
+C1617,165230,Rejected
+C1618,176934,Approved
+C1619,502183,Approved
+C1620,0,No Loan
+C1621,0,No Loan
+C1622,115067,Rejected
+C1623,126248,Rejected
+C1624,73545,Approved
+C1625,0,No Loan
+C1626,375843,Rejected
+C1627,0,No Loan
+C1628,146970,Approved
+C1629,181742,Approved
+C1630,97830,Approved
+C1631,0,No Loan
+C1632,0,No Loan
+C1633,0,No Loan
+C1634,79273,Approved
+C1635,190404,Approved
+C1636,0,No Loan
+C1637,0,No Loan
+C1638,0,No Loan
+C1639,81366,Approved
+C1640,311286,Approved
+C1641,200812,Rejected
+C1642,0,No Loan
+C1643,0,No Loan
+C1644,0,No Loan
+C1645,61692,Approved
+C1646,0,No Loan
+C1647,0,No Loan
+C1648,360779,Approved
+C1649,0,No Loan
+C1650,0,No Loan
+C1651,0,No Loan
+C1652,0,No Loan
+C1653,242868,Approved
+C1654,0,No Loan
+C1655,0,No Loan
+C1656,0,No Loan
+C1657,0,No Loan
+C1658,0,No Loan
+C1659,95320,Approved
+C1660,135075,Approved
+C1661,15495,Rejected
+C1662,0,No Loan
+C1663,0,No Loan
+C1664,0,No Loan
+C1665,242090,Approved
+C1666,0,No Loan
+C1667,0,No Loan
+C1668,22410,Approved
+C1669,0,No Loan
+C1670,0,No Loan
+C1671,178274,Rejected
+C1672,31627,Rejected
+C1673,0,No Loan
+C1674,0,No Loan
+C1675,0,No Loan
+C1676,0,No Loan
+C1677,0,No Loan
+C1678,163898,Rejected
+C1679,0,No Loan
+C1680,68337,Rejected
+C1681,0,No Loan
+C1682,53480,Approved
+C1683,23581,Approved
+C1684,92515,Rejected
+C1685,44899,Approved
+C1686,0,No Loan
+C1687,86648,Approved
+C1688,0,No Loan
+C1689,0,No Loan
+C1690,0,No Loan
+C1691,0,No Loan
+C1692,0,No Loan
+C1693,839315,Approved
+C1694,0,No Loan
+C1695,0,No Loan
+C1696,48313,Rejected
+C1697,0,No Loan
+C1698,0,No Loan
+C1699,239518,Rejected
+C1700,0,No Loan
+C1701,83594,Rejected
+C1702,0,No Loan
+C1703,0,No Loan
+C1704,209162,Approved
+C1705,153209,Rejected
+C1706,87742,Rejected
+C1707,188636,Approved
+C1708,114944,Approved
+C1709,0,No Loan
+C1710,0,No Loan
+C1711,0,No Loan
+C1712,250778,Approved
+C1713,0,No Loan
+C1714,0,No Loan
+C1715,42758,Approved
+C1716,0,No Loan
+C1717,33355,Approved
+C1718,0,No Loan
+C1719,0,No Loan
+C1720,0,No Loan
+C1721,0,No Loan
+C1722,0,No Loan
+C1723,233872,Approved
+C1724,0,No Loan
+C1725,0,No Loan
+C1726,48754,Rejected
+C1727,0,No Loan
+C1728,0,No Loan
+C1729,134659,Rejected
+C1730,0,No Loan
+C1731,0,No Loan
+C1732,0,No Loan
+C1733,0,No Loan
+C1734,0,No Loan
+C1735,0,No Loan
+C1736,345106,Approved
+C1737,237949,Approved
+C1738,496737,Approved
+C1739,196111,Approved
+C1740,331809,Approved
+C1741,0,No Loan
+C1742,0,No Loan
+C1743,146150,Approved
+C1744,132123,Approved
+C1745,70841,Approved
+C1746,31547,Approved
+C1747,82041,Approved
+C1748,0,No Loan
+C1749,144799,Approved
+C1750,0,No Loan
+C1751,0,No Loan
+C1752,258510,Rejected
+C1753,243311,Approved
+C1754,129610,Approved
+C1755,46110,Approved
+C1756,85260,Approved
+C1757,0,No Loan
+C1758,1078400,Approved
+C1759,0,No Loan
+C1760,183569,Approved
+C1761,0,No Loan
+C1762,0,No Loan
+C1763,45288,Rejected
+C1764,478440,Approved
+C1765,0,No Loan
+C1766,0,No Loan
+C1767,0,No Loan
+C1768,384807,Approved
+C1769,161129,Approved
+C1770,97428,Approved
+C1771,0,No Loan
+C1772,0,No Loan
+C1773,88968,Approved
+C1774,177176,Approved
+C1775,699380,Rejected
+C1776,0,No Loan
+C1777,0,No Loan
+C1778,28207,Approved
+C1779,0,No Loan
+C1780,0,No Loan
+C1781,163921,Approved
+C1782,286256,Approved
+C1783,95544,Rejected
+C1784,94349,Approved
+C1785,300026,Rejected
+C1786,0,No Loan
+C1787,0,No Loan
+C1788,183467,Approved
+C1789,323169,Rejected
+C1790,0,No Loan
+C1791,224119,Approved
+C1792,121120,Approved
+C1793,41655,Approved
+C1794,0,No Loan
+C1795,301710,Rejected
+C1796,154445,Approved
+C1797,0,No Loan
+C1798,89647,Approved
+C1799,0,No Loan
+C1800,0,No Loan
+C1801,141080,Approved
+C1802,120828,Rejected
+C1803,0,No Loan
+C1804,246892,Rejected
+C1805,0,No Loan
+C1806,0,No Loan
+C1807,0,No Loan
+C1808,0,No Loan
+C1809,0,No Loan
+C1810,0,No Loan
+C1811,0,No Loan
+C1812,0,No Loan
+C1813,0,No Loan
+C1814,0,No Loan
+C1815,115018,Approved
+C1816,0,No Loan
+C1817,88036,Approved
+C1818,0,No Loan
+C1819,304012,Approved
+C1820,173196,Approved
+C1821,0,No Loan
+C1822,90971,Rejected
+C1823,97541,Approved
+C1824,449420,Approved
+C1825,375589,Rejected
+C1826,0,No Loan
+C1827,153658,Approved
+C1828,84747,Approved
+C1829,787131,Rejected
+C1830,96187,Approved
+C1831,108203,Rejected
+C1832,0,No Loan
+C1833,34135,Approved
+C1834,298238,Rejected
+C1835,0,No Loan
+C1836,0,No Loan
+C1837,225501,Approved
+C1838,108675,Rejected
+C1839,0,No Loan
+C1840,0,No Loan
+C1841,0,No Loan
+C1842,59701,Rejected
+C1843,0,No Loan
+C1844,0,No Loan
+C1845,0,No Loan
+C1846,127812,Rejected
+C1847,133937,Approved
+C1848,109974,Approved
+C1849,206701,Approved
+C1850,0,No Loan
+C1851,319959,Approved
+C1852,215639,Rejected
+C1853,0,No Loan
+C1854,0,No Loan
+C1855,318612,Approved
+C1856,54221,Approved
+C1857,231894,Approved
+C1858,82481,Approved
+C1859,0,No Loan
+C1860,181655,Approved
+C1861,0,No Loan
+C1862,261866,Approved
+C1863,0,No Loan
+C1864,0,No Loan
+C1865,0,No Loan
+C1866,0,No Loan
+C1867,0,No Loan
+C1868,0,No Loan
+C1869,0,No Loan
+C1870,158366,Rejected
+C1871,124122,Rejected
+C1872,192853,Approved
+C1873,85978,Approved
+C1874,0,No Loan
+C1875,0,No Loan
+C1876,0,No Loan
+C1877,68622,Approved
+C1878,140694,Approved
+C1879,240238,Approved
+C1880,0,No Loan
+C1881,0,No Loan
+C1882,41587,Approved
+C1883,0,No Loan
+C1884,0,No Loan
+C1885,0,No Loan
+C1886,411817,Approved
+C1887,0,No Loan
+C1888,132081,Approved
+C1889,49643,Rejected
+C1890,0,No Loan
+C1891,0,No Loan
+C1892,192277,Approved
+C1893,50776,Approved
+C1894,0,No Loan
+C1895,0,No Loan
+C1896,0,No Loan
+C1897,0,No Loan
+C1898,0,No Loan
+C1899,0,No Loan
+C1900,0,No Loan
+C1901,0,No Loan
+C1902,0,No Loan
+C1903,237464,Approved
+C1904,151097,Approved
+C1905,0,No Loan
+C1906,526552,Approved
+C1907,0,No Loan
+C1908,0,No Loan
+C1909,0,No Loan
+C1910,50864,Rejected
+C1911,474989,Approved
+C1912,85952,Approved
+C1913,130778,Approved
+C1914,0,No Loan
+C1915,0,No Loan
+C1916,0,No Loan
+C1917,0,No Loan
+C1918,79082,Approved
+C1919,131382,Approved
+C1920,183566,Approved
+C1921,0,No Loan
+C1922,0,No Loan
+C1923,0,No Loan
+C1924,0,No Loan
+C1925,0,No Loan
+C1926,224588,Rejected
+C1927,0,No Loan
+C1928,111467,Rejected
+C1929,0,No Loan
+C1930,225690,Approved
+C1931,0,No Loan
+C1932,187903,Rejected
+C1933,122056,Approved
+C1934,0,No Loan
+C1935,90553,Rejected
+C1936,141059,Rejected
+C1937,0,No Loan
+C1938,0,No Loan
+C1939,0,No Loan
+C1940,0,No Loan
+C1941,125243,Approved
+C1942,399904,Approved
+C1943,0,No Loan
+C1944,179702,Rejected
+C1945,0,No Loan
+C1946,0,No Loan
+C1947,0,No Loan
+C1948,0,No Loan
+C1949,0,No Loan
+C1950,0,No Loan
+C1951,0,No Loan
+C1952,0,No Loan
+C1953,0,No Loan
+C1954,61494,Rejected
+C1955,0,No Loan
+C1956,184025,Approved
+C1957,43960,Approved
+C1958,0,No Loan
+C1959,256775,Rejected
+C1960,0,No Loan
+C1961,0,No Loan
+C1962,0,No Loan
+C1963,0,No Loan
+C1964,0,No Loan
+C1965,255145,Approved
+C1966,0,No Loan
+C1967,216657,Rejected
+C1968,68749,Approved
+C1969,0,No Loan
+C1970,161190,Approved
+C1971,120112,Approved
+C1972,0,No Loan
+C1973,252109,Approved
+C1974,283087,Approved
+C1975,457502,Approved
+C1976,0,No Loan
+C1977,0,No Loan
+C1978,0,No Loan
+C1979,265751,Approved
+C1980,0,No Loan
+C1981,0,No Loan
+C1982,112437,Approved
+C1983,0,No Loan
+C1984,0,No Loan
+C1985,0,No Loan
+C1986,0,No Loan
+C1987,157142,Approved
+C1988,0,No Loan
+C1989,0,No Loan
+C1990,0,No Loan
+C1991,0,No Loan
+C1992,0,No Loan
+C1993,0,No Loan
+C1994,0,No Loan
+C1995,0,No Loan
+C1996,37496,Approved
+C1997,0,No Loan
+C1998,0,No Loan
+C1999,167160,Approved
+C2000,124830,Approved
+C2001,294384,Approved
+C2002,122248,Approved
+C2003,46134,Approved
+C2004,179540,Approved
+C2005,0,No Loan
+C2006,118589,Rejected
+C2007,130239,Approved
+C2008,0,No Loan
+C2009,261058,Approved
+C2010,0,No Loan
+C2011,0,No Loan
+C2012,12884,Approved
+C2013,80287,Rejected
+C2014,133999,Approved
+C2015,185373,Approved
+C2016,281891,Approved
+C2017,59104,Approved
+C2018,44115,Approved
+C2019,0,No Loan
+C2020,203717,Approved
+C2021,0,No Loan
+C2022,286699,Approved
+C2023,0,No Loan
+C2024,256661,Approved
+C2025,0,No Loan
+C2026,22928,Approved
+C2027,0,No Loan
+C2028,46183,Approved
+C2029,0,No Loan
+C2030,348366,Approved
+C2031,0,No Loan
+C2032,53690,Approved
+C2033,0,No Loan
+C2034,368548,Approved
+C2035,105963,Rejected
+C2036,0,No Loan
+C2037,0,No Loan
+C2038,0,No Loan
+C2039,0,No Loan
+C2040,0,No Loan
+C2041,0,No Loan
+C2042,77029,Approved
+C2043,147330,Approved
+C2044,0,No Loan
+C2045,0,No Loan
+C2046,0,No Loan
+C2047,0,No Loan
+C2048,49837,Approved
+C2049,0,No Loan
+C2050,0,No Loan
+C2051,86942,Approved
+C2052,0,No Loan
+C2053,0,No Loan
+C2054,0,No Loan
+C2055,31151,Approved
+C2056,0,No Loan
+C2057,258439,Approved
+C2058,503444,Approved
+C2059,0,No Loan
+C2060,0,No Loan
+C2061,238254,Approved
+C2062,0,No Loan
+C2063,494646,Approved
+C2064,0,No Loan
+C2065,179190,Approved
+C2066,0,No Loan
+C2067,0,No Loan
+C2068,357363,Rejected
+C2069,0,No Loan
+C2070,0,No Loan
+C2071,368114,Approved
+C2072,0,No Loan
+C2073,0,No Loan
+C2074,0,No Loan
+C2075,0,No Loan
+C2076,0,No Loan
+C2077,0,No Loan
+C2078,0,No Loan
+C2079,0,No Loan
+C2080,0,No Loan
+C2081,14581,Rejected
+C2082,0,No Loan
+C2083,0,No Loan
+C2084,0,No Loan
+C2085,0,No Loan
+C2086,44067,Approved
+C2087,111590,Approved
+C2088,0,No Loan
+C2089,0,No Loan
+C2090,0,No Loan
+C2091,0,No Loan
+C2092,0,No Loan
+C2093,305854,Approved
+C2094,0,No Loan
+C2095,117719,Rejected
+C2096,0,No Loan
+C2097,0,No Loan
+C2098,21935,Rejected
+C2099,46683,Approved
+C2100,123193,Approved
+C2101,0,No Loan
+C2102,104652,Rejected
+C2103,0,No Loan
+C2104,31781,Approved
+C2105,0,No Loan
+C2106,111829,Approved
+C2107,81607,Approved
+C2108,200236,Rejected
+C2109,0,No Loan
+C2110,0,No Loan
+C2111,500410,Approved
+C2112,162592,Approved
+C2113,541033,Approved
+C2114,0,No Loan
+C2115,95828,Approved
+C2116,0,No Loan
+C2117,0,No Loan
+C2118,0,No Loan
+C2119,0,No Loan
+C2120,184907,Approved
+C2121,0,No Loan
+C2122,356843,Approved
+C2123,0,No Loan
+C2124,0,No Loan
+C2125,167577,Approved
+C2126,0,No Loan
+C2127,388737,Approved
+C2128,92506,Approved
+C2129,321174,Rejected
+C2130,50494,Approved
+C2131,0,No Loan
+C2132,0,No Loan
+C2133,0,No Loan
+C2134,0,No Loan
+C2135,0,No Loan
+C2136,0,No Loan
+C2137,0,No Loan
+C2138,0,No Loan
+C2139,0,No Loan
+C2140,126404,Approved
+C2141,0,No Loan
+C2142,0,No Loan
+C2143,0,No Loan
+C2144,0,No Loan
+C2145,130765,Approved
+C2146,48272,Approved
+C2147,0,No Loan
+C2148,0,No Loan
+C2149,47978,Approved
+C2150,57321,Approved
+C2151,0,No Loan
+C2152,0,No Loan
+C2153,0,No Loan
+C2154,85948,Approved
+C2155,78320,Rejected
+C2156,0,No Loan
+C2157,0,No Loan
+C2158,383333,Approved
+C2159,510929,Approved
+C2160,0,No Loan
+C2161,0,No Loan
+C2162,331937,Approved
+C2163,0,No Loan
+C2164,0,No Loan
+C2165,0,No Loan
+C2166,0,No Loan
+C2167,0,No Loan
+C2168,63852,Rejected
+C2169,0,No Loan
+C2170,0,No Loan
+C2171,0,No Loan
+C2172,0,No Loan
+C2173,0,No Loan
+C2174,0,No Loan
+C2175,75289,Approved
+C2176,49058,Approved
+C2177,0,No Loan
+C2178,375949,Approved
+C2179,0,No Loan
+C2180,153953,Rejected
+C2181,0,No Loan
+C2182,0,No Loan
+C2183,183445,Approved
+C2184,308255,Approved
+C2185,155758,Approved
+C2186,296534,Approved
+C2187,0,No Loan
+C2188,0,No Loan
+C2189,0,No Loan
+C2190,0,No Loan
+C2191,245273,Rejected
+C2192,0,No Loan
+C2193,124348,Rejected
+C2194,0,No Loan
+C2195,0,No Loan
+C2196,0,No Loan
+C2197,0,No Loan
+C2198,0,No Loan
+C2199,0,No Loan
+C2200,0,No Loan
+C2201,277331,Rejected
+C2202,0,No Loan
+C2203,343726,Approved
+C2204,0,No Loan
+C2205,0,No Loan
+C2206,0,No Loan
+C2207,0,No Loan
+C2208,208770,Approved
+C2209,0,No Loan
+C2210,52553,Approved
+C2211,321041,Approved
+C2212,0,No Loan
+C2213,78758,Rejected
+C2214,0,No Loan
+C2215,0,No Loan
+C2216,0,No Loan
+C2217,225228,Approved
+C2218,0,No Loan
+C2219,0,No Loan
+C2220,0,No Loan
+C2221,0,No Loan
+C2222,0,No Loan
+C2223,16746,Approved
+C2224,0,No Loan
+C2225,0,No Loan
+C2226,0,No Loan
+C2227,635916,Rejected
+C2228,0,No Loan
+C2229,0,No Loan
+C2230,0,No Loan
+C2231,0,No Loan
+C2232,68972,Approved
+C2233,54789,Rejected
+C2234,0,No Loan
+C2235,0,No Loan
+C2236,0,No Loan
+C2237,709864,Rejected
+C2238,0,No Loan
+C2239,32749,Rejected
+C2240,0,No Loan
+C2241,257475,Approved
+C2242,0,No Loan
+C2243,0,No Loan
+C2244,0,No Loan
+C2245,0,No Loan
+C2246,0,No Loan
+C2247,39213,Approved
+C2248,0,No Loan
+C2249,0,No Loan
+C2250,339893,Approved
+C2251,0,No Loan
+C2252,0,No Loan
+C2253,29566,Approved
+C2254,436854,Approved
+C2255,0,No Loan
+C2256,0,No Loan
+C2257,198980,Approved
+C2258,0,No Loan
+C2259,0,No Loan
+C2260,345123,Approved
+C2261,264379,Approved
+C2262,0,No Loan
+C2263,0,No Loan
+C2264,0,No Loan
+C2265,0,No Loan
+C2266,292918,Approved
+C2267,0,No Loan
+C2268,0,No Loan
+C2269,48920,Approved
+C2270,0,No Loan
+C2271,367640,Approved
+C2272,0,No Loan
+C2273,294613,Rejected
+C2274,889616,Approved
+C2275,0,No Loan
+C2276,234866,Approved
+C2277,0,No Loan
+C2278,450251,Approved
+C2279,122497,Approved
+C2280,423304,Approved
+C2281,80956,Approved
+C2282,672023,Approved
+C2283,0,No Loan
+C2284,46224,Approved
+C2285,318897,Approved
+C2286,0,No Loan
+C2287,104619,Rejected
+C2288,0,No Loan
+C2289,258197,Approved
+C2290,146969,Approved
+C2291,0,No Loan
+C2292,0,No Loan
+C2293,47847,Approved
+C2294,0,No Loan
+C2295,223627,Approved
+C2296,69609,Rejected
+C2297,0,No Loan
+C2298,65754,Approved
+C2299,0,No Loan
+C2300,111475,Approved
+C2301,0,No Loan
+C2302,0,No Loan
+C2303,0,No Loan
+C2304,177304,Approved
+C2305,0,No Loan
+C2306,0,No Loan
+C2307,0,No Loan
+C2308,0,No Loan
+C2309,0,No Loan
+C2310,0,No Loan
+C2311,0,No Loan
+C2312,0,No Loan
+C2313,0,No Loan
+C2314,44298,Approved
+C2315,0,No Loan
+C2316,0,No Loan
+C2317,0,No Loan
+C2318,106540,Approved
+C2319,181735,Approved
+C2320,0,No Loan
+C2321,0,No Loan
+C2322,0,No Loan
+C2323,0,No Loan
+C2324,0,No Loan
+C2325,629915,Approved
+C2326,168973,Approved
+C2327,117456,Approved
+C2328,48906,Approved
+C2329,0,No Loan
+C2330,0,No Loan
+C2331,0,No Loan
+C2332,0,No Loan
+C2333,0,No Loan
+C2334,0,No Loan
+C2335,0,No Loan
+C2336,390173,Rejected
+C2337,0,No Loan
+C2338,245097,Rejected
+C2339,0,No Loan
+C2340,0,No Loan
+C2341,99369,Approved
+C2342,389300,Approved
+C2343,0,No Loan
+C2344,0,No Loan
+C2345,106581,Approved
+C2346,161202,Approved
+C2347,0,No Loan
+C2348,230284,Approved
+C2349,0,No Loan
+C2350,0,No Loan
+C2351,0,No Loan
+C2352,312004,Approved
+C2353,0,No Loan
+C2354,0,No Loan
+C2355,196851,Approved
+C2356,241361,Approved
+C2357,31899,Rejected
+C2358,0,No Loan
+C2359,0,No Loan
+C2360,350664,Approved
+C2361,115824,Approved
+C2362,0,No Loan
+C2363,0,No Loan
+C2364,0,No Loan
+C2365,27575,Approved
+C2366,107452,Approved
+C2367,0,No Loan
+C2368,223013,Approved
+C2369,0,No Loan
+C2370,0,No Loan
+C2371,61040,Approved
+C2372,0,No Loan
+C2373,0,No Loan
+C2374,0,No Loan
+C2375,0,No Loan
+C2376,0,No Loan
+C2377,0,No Loan
+C2378,0,No Loan
+C2379,197714,Approved
+C2380,199849,Approved
+C2381,0,No Loan
+C2382,0,No Loan
+C2383,0,No Loan
+C2384,0,No Loan
+C2385,10268,Rejected
+C2386,0,No Loan
+C2387,0,No Loan
+C2388,0,No Loan
+C2389,74072,Approved
+C2390,266677,Approved
+C2391,0,No Loan
+C2392,0,No Loan
+C2393,175042,Rejected
+C2394,0,No Loan
+C2395,66374,Approved
+C2396,0,No Loan
+C2397,0,No Loan
+C2398,0,No Loan
+C2399,0,No Loan
+C2400,0,No Loan
+C2401,0,No Loan
+C2402,0,No Loan
+C2403,0,No Loan
+C2404,144401,Approved
+C2405,0,No Loan
+C2406,110069,Rejected
+C2407,150128,Approved
+C2408,0,No Loan
+C2409,0,No Loan
+C2410,164014,Rejected
+C2411,0,No Loan
+C2412,0,No Loan
+C2413,68290,Approved
+C2414,0,No Loan
+C2415,188671,Approved
+C2416,0,No Loan
+C2417,0,No Loan
+C2418,83401,Approved
+C2419,0,No Loan
+C2420,0,No Loan
+C2421,0,No Loan
+C2422,0,No Loan
+C2423,0,No Loan
+C2424,56900,Approved
+C2425,386562,Approved
+C2426,0,No Loan
+C2427,0,No Loan
+C2428,565689,Approved
+C2429,0,No Loan
+C2430,87217,Approved
+C2431,428861,Approved
+C2432,556389,Rejected
+C2433,0,No Loan
+C2434,0,No Loan
+C2435,83554,Approved
+C2436,0,No Loan
+C2437,80204,Approved
+C2438,0,No Loan
+C2439,361756,Approved
+C2440,0,No Loan
+C2441,0,No Loan
+C2442,0,No Loan
+C2443,512252,Approved
+C2444,84157,Approved
+C2445,0,No Loan
+C2446,0,No Loan
+C2447,0,No Loan
+C2448,0,No Loan
+C2449,0,No Loan
+C2450,0,No Loan
+C2451,142498,Rejected
+C2452,183741,Rejected
+C2453,0,No Loan
+C2454,0,No Loan
+C2455,0,No Loan
+C2456,322926,Rejected
+C2457,0,No Loan
+C2458,0,No Loan
+C2459,0,No Loan
+C2460,444089,Approved
+C2461,0,No Loan
+C2462,92369,Approved
+C2463,0,No Loan
+C2464,0,No Loan
+C2465,26431,Approved
+C2466,45938,Approved
+C2467,0,No Loan
+C2468,0,No Loan
+C2469,231550,Rejected
+C2470,0,No Loan
+C2471,0,No Loan
+C2472,87266,Approved
+C2473,0,No Loan
+C2474,171347,Approved
+C2475,139570,Rejected
+C2476,0,No Loan
+C2477,0,No Loan
+C2478,0,No Loan
+C2479,0,No Loan
+C2480,0,No Loan
+C2481,75405,Approved
+C2482,209903,Approved
+C2483,0,No Loan
+C2484,0,No Loan
+C2485,0,No Loan
+C2486,0,No Loan
+C2487,329944,Rejected
+C2488,0,No Loan
+C2489,0,No Loan
+C2490,0,No Loan
+C2491,94209,Approved
+C2492,0,No Loan
+C2493,54122,Approved
+C2494,0,No Loan
+C2495,166749,Approved
+C2496,0,No Loan
+C2497,0,No Loan
+C2498,0,No Loan
+C2499,0,No Loan
+C2500,136278,Approved
